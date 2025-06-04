@@ -28,3 +28,4 @@ group :development do
   # gem "spring"
 end
 
+gem 'rails_event_store_active_record'
